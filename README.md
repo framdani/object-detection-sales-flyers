@@ -1,4 +1,4 @@
-## Détection des objets dans les affiches publicitaires
+## Introduction
 
 L’objectif principal de ce projet est de concevoir une application capable de reconnaître visuellement des images pouvant être des affiches publicitaires scannées ou téléchargées en utilisant les réseaux de neurones profonds. 
 Le travail demandé peut être séparé en trois étapes :
